@@ -1,0 +1,19 @@
+.header {
+    padding: 60px;
+    text-align: right;
+    background: #1abc9c;
+    color: grey;
+    font-size: 30px;
+}
+
+body {
+    background-color: teal;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #1abc9c;
+    color: gray;
+    font-size: large;
+}
